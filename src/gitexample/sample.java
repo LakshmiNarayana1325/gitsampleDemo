@@ -6,6 +6,8 @@ public class sample {
 		// TODO Auto-generated method stub
 		System.out.println("sample git proj");
 		System.out.println("sample git proj1");
+		System.out.println("sample git proj2");
+		
 
 	}
 
